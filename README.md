@@ -12,6 +12,7 @@
 - gpio readall 
 
 
+
 2.  라즈베리파이 AMG8833 모듈 설치 
 
 - sudo pip3 install colour
@@ -32,10 +33,11 @@
 
 - cd ~
 
-- git clone https://github.com/adafruit/Adafruit_AMG88xx_python.git
 
 
 3. Thermal camera AMG8833 사용하기 
+
+- git clone https://github.com/adafruit/Adafruit_AMG88xx_python.git
 
 - cd Adafruit_AMG88xx_python
 
