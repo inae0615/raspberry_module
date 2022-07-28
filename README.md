@@ -1,5 +1,5 @@
 # thermal_camera_controls (with. raspberry pi)
-## AMG8833
+### AMG8833
 1. 라즈베리파이 GPIO 사용하기 
 
 - git clone https://github.com/WiringPi/WiringPi
