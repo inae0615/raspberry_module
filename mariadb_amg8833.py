@@ -28,3 +28,6 @@ except KeyboardInterrupt :
        exit()
 finally:
        conn.close()
+          
+#mariadb
+#create table [table_name] (date datetime NOT NULL default current_timestamp, temperature float NOT NULL);
