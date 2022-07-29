@@ -1,3 +1,6 @@
+#mariadb_table
+#create table [tablename] (date datetime NOT NULL default current_timestamp, temperature float NOT NULL);
+
 import RPi.GPIO as GPIO
 import sys
 import time
