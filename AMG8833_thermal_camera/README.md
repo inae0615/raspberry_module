@@ -44,5 +44,3 @@
 - cd examples
 
 - python thermal_cam.py
-
-  (※python 실행을 중지해도 pygame window 창이 꺼지지 않음으로 코드 추가 편집필요 / https://github.com/inae0615/thermal_camera_controls 업로드함.)
